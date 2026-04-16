@@ -107,6 +107,13 @@ The project turns complex quantum concepts into a **game-like experience**, wher
 * Comparison between algorithms
 
 ---
+🖼️ Screenshots
+<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/3d841116-3fa2-4db0-b99e-e42494007e5c" />
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/c0334afc-b626-4bb7-b751-fe14b6b8f21e" />
+<img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/84ab1a77-8206-41b9-919d-5e93b8d551fc" />
+<img width="1600" height="858" alt="image" src="https://github.com/user-attachments/assets/320f8392-adc6-4d68-9de4-cec2103673ce" />
+
+
 
 
 ---
